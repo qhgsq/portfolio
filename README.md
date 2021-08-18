@@ -5,4 +5,5 @@
 
 # 使用技術
 ・開発言語:HTML、CSS、Javascript
+
 ・バージョン管理: Git/GitHub
